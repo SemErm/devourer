@@ -1,0 +1,18 @@
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\bin\Debug\devourer.exe.config
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\bin\Debug\devourer.exe
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\bin\Debug\devourer.pdb
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.csprojResolveAssemblyReference.cache
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.Form1.resources
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.Properties.Resources.resources
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.csproj.GenerateResource.Cache
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.exe
+c:\users\sem\documents\visual studio 2012\Projects\devourer\devourer\obj\Debug\devourer.pdb
+C:\Users\Sem\Desktop\devourer\devourer\bin\Debug\devourer.exe.config
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.exe
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.pdb
+C:\Users\Sem\Desktop\devourer\devourer\bin\Debug\devourer.exe
+C:\Users\Sem\Desktop\devourer\devourer\bin\Debug\devourer.pdb
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.csprojResolveAssemblyReference.cache
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.Form1.resources
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.Properties.Resources.resources
+C:\Users\Sem\Desktop\devourer\devourer\obj\Debug\devourer.csproj.GenerateResource.Cache
